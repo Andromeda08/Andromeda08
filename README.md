@@ -11,4 +11,3 @@ I'm a university student at the Budapest University of Technology, studying Comp
 <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
 <img align="left" width="26px" src="https://symbols.getvecta.com/stencil_87/15_less-icon.74d2904cf7.png" />
 <img align="left" width="26px" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png" />
-<img align="left" width="26px" src="https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" />
