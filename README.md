@@ -9,5 +9,6 @@ I'm a university student at the Budapest University of Technology, studying Comp
 <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
 <img align="left" width="26px" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png" />
 <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-<img align="left" width="26px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/less-512.png" />
-<img align="left" width="26px" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" />
+<img align="left" width="26px" src="https://symbols.getvecta.com/stencil_87/15_less-icon.74d2904cf7.png" />
+<img align="left" width="26px" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png" />
+<img align="left" width="26px" src="https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" />
