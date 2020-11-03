@@ -10,4 +10,3 @@ I'm a university student at the Budapest University of Technology, studying Comp
 <img align="left" width="26px" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png" />
 <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
 <img align="left" width="26px" src="https://symbols.getvecta.com/stencil_87/15_less-icon.74d2904cf7.png" />
-<img align="left" width="26px" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png" />
