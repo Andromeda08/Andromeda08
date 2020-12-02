@@ -6,5 +6,6 @@
 > *C++* | *Assembly* | *Verilog* | *"html"* | *Javascript*
 ### Tools
 > **CLion** | **IntelliJ Idea** | **Visual Studio Code**  
-> *Visual Studio 2019* | *Xcode* | *Atom* | *Xilinx ISE*  
+> *Visual Studio 2019* | *Xcode* | *Atom* | *Xilinx ISE*
+
 *(Lanugages and tools that are **hightlighted** are which I have more experience with, or use the most.)*
