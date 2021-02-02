@@ -1,4 +1,4 @@
-## 🖥️ Hi there, I'm Andromeda 🖥️
+## 🖥️ Hi there, I'm Balázs Kovács 🖥️
 > 📚 I'm a university student, studying Computer Engineering.  
 > 🖥️ *For programming I mainly use macOS.*
 ### Languages
