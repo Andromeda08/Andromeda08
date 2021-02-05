@@ -1,0 +1,192 @@
+//~ Roboto Font 100-900
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+//~ Font-Awesome 4.7.0
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+//! Colors
+$clr-a: #ab79d6;
+$clr-b: #8390FA;
+$clr-c: rgb(167, 131, 250);
+
+$clr-neutral-100: #FFF;
+$clr-neutral-200: #DDD;
+$clr-neutral-300: #CCC;
+$clr-neutral-400: #444;
+$clr-neutral-700: #212125;
+$clr-neutral-800: #141414;
+$clr-neutral-900: #000;
+
+//? Resets
+*, *::before, *::after { box-sizing: border-box; }
+body, h1, h2, h3, p { margin: 0; }
+
+//! Global rules
+html { scroll-behavior: smooth; }
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.6;
+    background: $clr-neutral-800;
+}
+.split {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+@media (min-width: 40em) {
+    .split { flex-direction: row; }
+    .projects .split > * {
+        flex-basis: 100%;
+    }
+}
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+img {
+    display: block;
+    max-width: 100%;
+}
+.text-center { text-align: center; }
+section { border-bottom: 2px solid $clr-neutral-700; }
+
+//! Navbar
+
+header { background: $clr-c; }
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+.name {
+    float: left; 
+    font-size: 22px;
+    padding: 1rem;
+    color: $clr-neutral-100;
+}
+nav { float: right; }
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 20px;
+    position: relative;
+}
+nav a {
+    color: $clr-neutral-400;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+nav a:hover { color: #000; }
+nav a::before {
+    content: '';
+    display: block;
+    height: 3px;
+    background-color: $clr-neutral-400;
+    //Positioning
+    position: absolute;
+    top: 0;
+    width: 0%;
+    //Animation
+    transition: all ease-in-out 250ms;
+}
+nav a:hover::before { width: 100%; }
+
+//^ Clip paths
+.circle-clip { clip-path: circle(50% at 50% 50%); }
+
+//~ Dark Background
+.bg-dark { background: $clr-neutral-800; }
+.bg-dark p { color: $clr-neutral-200; }
+.bg-dark h2 { color: $clr-neutral-100; }
+
+//~ Light Background
+.bg-light { background: $clr-neutral-100; }
+.bg-ligh p { color: $clr-neutral-800; }
+.bg-light h2 { color: $clr-neutral-900; }
+
+//~ Accent Background
+.bg-accent { background: $clr-c; }
+.bg-ligh p { color: $clr-neutral-800; }
+.bg-light h2 { color: $clr-neutral-900; }
+
+//! Content Sections
+
+//~ About Section
+.narrow { max-width: 50rem; }
+.about { padding-block: 5%; }
+.about .text { padding-top: 2%; }
+.about p:first-of-type { 
+    padding-top: 15px; 
+    border-top: 2px solid $clr-neutral-200;
+}
+.about .circle-clip { width: 10rem; }
+
+//~ Projects
+.projects { padding-block: 5%; }
+.projects h2 { margin-bottom: 1em; }
+.projects .container {
+    margin-bottom: 2.5%; 
+    padding-block: 2.5%;
+    border-top: 2px solid $clr-neutral-700;
+}
+.desc { padding-top: 5%; }
+.projects p { padding-bottom: 2%; }
+
+//~ Tag thingy
+.tag {
+    font-size: 0.8rem;
+    color: $clr-neutral-800;
+    padding-inline: 0.5rem;
+    background-color: $clr-b;
+    border: 3px solid $clr-b;
+    border-radius: 40px;
+    margin-right: 1%;
+}
+
+//! Footer section
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-block: 1.5%;
+}
+.footer p {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1rem;
+}
+.footer a {
+    margin-left: 0.8rem;
+    color: $clr-neutral-800;
+    text-decoration: none;
+}
+.footer .fa-github {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 2rem;
+}
+//~ Scroll to top button
+#scroll-to-top {
+    display: none;
+    position: fixed;
+    bottom: 15px;
+    right: 20px;
+    z-index: 5;
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: $clr-c;
+    opacity: 0.3;
+    transition: ease-in-out 250ms;
+}
+#scroll-to-top:hover {
+    opacity: 1;
+}

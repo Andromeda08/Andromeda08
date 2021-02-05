@@ -1,0 +1,271 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body, h1, h2, h3, p {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.6;
+  background: #141414;
+}
+
+.split {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 2em;
+}
+
+@media (min-width: 40em) {
+  .split {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  .projects .split > * {
+    -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+  }
+}
+
+.container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+section {
+  border-bottom: 2px solid #212125;
+}
+
+header {
+  background: #a783fa;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.name {
+  float: left;
+  font-size: 22px;
+  padding: 1rem;
+  color: #FFF;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 20px;
+  position: relative;
+}
+
+nav a {
+  color: #444;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+nav a:hover {
+  color: #000;
+}
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 3px;
+  background-color: #444;
+  position: absolute;
+  top: 0;
+  width: 0%;
+  -webkit-transition: all ease-in-out 250ms;
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+.circle-clip {
+  -webkit-clip-path: circle(50% at 50% 50%);
+          clip-path: circle(50% at 50% 50%);
+}
+
+.bg-dark {
+  background: #141414;
+}
+
+.bg-dark p {
+  color: #DDD;
+}
+
+.bg-dark h2 {
+  color: #FFF;
+}
+
+.bg-light {
+  background: #FFF;
+}
+
+.bg-ligh p {
+  color: #141414;
+}
+
+.bg-light h2 {
+  color: #000;
+}
+
+.bg-accent {
+  background: #a783fa;
+}
+
+.bg-ligh p {
+  color: #141414;
+}
+
+.bg-light h2 {
+  color: #000;
+}
+
+.narrow {
+  max-width: 50rem;
+}
+
+.about {
+  padding-block: 5%;
+}
+
+.about .text {
+  padding-top: 2%;
+}
+
+.about p:first-of-type {
+  padding-top: 15px;
+  border-top: 2px solid #DDD;
+}
+
+.about .circle-clip {
+  width: 10rem;
+}
+
+.projects {
+  padding-block: 5%;
+}
+
+.projects h2 {
+  margin-bottom: 1em;
+}
+
+.projects .container {
+  margin-bottom: 2.5%;
+  padding-block: 2.5%;
+  border-top: 2px solid #212125;
+}
+
+.desc {
+  padding-top: 5%;
+}
+
+.projects p {
+  padding-bottom: 2%;
+}
+
+.tag {
+  font-size: 0.8rem;
+  color: #141414;
+  padding-inline: 0.5rem;
+  background-color: #8390FA;
+  border: 3px solid #8390FA;
+  border-radius: 40px;
+  margin-right: 1%;
+}
+
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-block: 1.5%;
+}
+
+.footer p {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 1rem;
+}
+
+.footer a {
+  margin-left: 0.8rem;
+  color: #141414;
+  text-decoration: none;
+}
+
+.footer .fa-github {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 2rem;
+}
+
+#scroll-to-top {
+  display: none;
+  position: fixed;
+  bottom: 15px;
+  right: 20px;
+  z-index: 5;
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+  color: #a783fa;
+  opacity: 0.3;
+  -webkit-transition: ease-in-out 250ms;
+  transition: ease-in-out 250ms;
+}
+
+#scroll-to-top:hover {
+  opacity: 1;
+}
+/*# sourceMappingURL=main.css.map */
