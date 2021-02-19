@@ -1,12 +1,12 @@
 ## 🐈 Hi there, I'm Balázs Kovács 🐈
 > 📚 I'm a university student, studying Computer Engineering.  
-> 🖥️ *For programming I mainly use macOS.*
+> 🖥️ [andromeda08.github.io](https://andromeda08.github.io/)
 ### Languages
-> **C** | **Java** | **CSS SCSS Sass**  
-> *C++* | *Assembly* | *Verilog* | *"html"* | *Javascript* | *Less*
+> **C**  | **Less** | **SCSS** | **Java**  
+> *C++* | *Assembly* | *Verilog* | *"html"* | *Javascript* | *CSS*
 ### Tools
-> **CLion** | **IntelliJ Idea** | **Visual Studio Code**  
-> *Visual Studio 2019* | *Xcode* | *Atom* | *Xilinx ISE*
+> **Visual Studio Code** | **CLion** | **IntelliJ Idea**  
+> *Visual Studio 2019* | *Xilinx ISE*
 
 *(Languages and tools that are **highlighted** are which I have more experience with or use the most.)*  
-[andromeda08.github.io](https://andromeda08.github.io/)
+
