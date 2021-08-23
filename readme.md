@@ -3,7 +3,7 @@
 - 📚 I'm a university student, studying Computer Engineering 
 - 🖥️ I'm learning `NextJS` and `NestJS` 
 - 💬 Discord: `Andromeda#9731`
-- 🔗 My website: [andromeda08.github.io](https://andromeda08.github.io/)
+- 🔗 My website: [tsukiakari.me](https://tsukiakari.me/)
 
 #### Technologies I like
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript&logoColor=#F7DF1E)
