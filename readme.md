@@ -1,7 +1,7 @@
 ### 🐈 Hello, I'm Balázs Kovács 🐈
 #### About me
 - 📚 I'm a university student, studying Computer Engineering 
-- 🖥️ I'm learning `NextJS` and `NestJS` 
+- 🖥️ I'm learning `NextJS` and `Typescript` 
 - 💬 Discord: `Andromeda#9731`
 - 🔗 My website: [tsukiakari.me](https://tsukiakari.me/)
 
