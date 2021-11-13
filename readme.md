@@ -13,3 +13,9 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![NestJS](https://img.shields.io/badge/-NestJS-%23282C34?style=flat-square&logo=NestJS&logoColor=E0234E)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%23282C34?style=flat-square&logo=graphql)
+
+<details>
+  <summary>🧮 Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andromeda's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andromeda08&layout=compact&theme=outrun&hide=css" /></a>
+</details
