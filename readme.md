@@ -4,7 +4,6 @@
 - 🖥️ I'm learning `NextJS` and `Typescript` 
 - 💬 Discord: `Andromeda#9731`
 - 🔗 My website: [tsukiakari.me](https://tsukiakari.me/)
-- 🔗 osu!pv: [opv.tsukiakari.me](https://opv.tsukiakari.me/)
 
 #### Technologies I like
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript&logoColor=#F7DF1E)
