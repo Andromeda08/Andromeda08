@@ -16,5 +16,5 @@
 <details>
   <summary>🧮 Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andromeda's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andromeda08&layout=compact&theme=outrun&hide=css" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andromeda's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andromeda08&layout=compact&theme=graywhite&hide=css" /></a>
 </details
