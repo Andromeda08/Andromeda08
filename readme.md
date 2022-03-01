@@ -11,6 +11,7 @@
 ![Node](https://img.shields.io/badge/Node.js-%23282C34.svg?&style=flat-square&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=Next.js&logoColor=#000000)
+![Sass](https://img.shields.io/badge/-Sass-%23282C34?style=flat-square&logo=Sass&logoColor=#CC6699)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-%23282C34?style=flat-square&logo=OpenGL&logoColor=#5586A4)
 
 <details>
