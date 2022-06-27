@@ -1,9 +1,9 @@
 ### 🐈 Hello, I'm Balázs Kovács 🐈
 #### About me
 - 📚 I'm a university student, studying Computer Engineering.
-- 🖥️ I'm learning `NextJS` and `Typescript`, more recently `OpenGL` and `C++ 20`
+- 🖥️ In my free time I like exploring front-end web development with tools such as `Next.js` and `Typescript`.
 - 💬 Discord: `Andromeda#9731`
-- 🔗 My website: [tsukiakari.me](https://tsukiakari.me/)
+- 🔗 My website: [tsukiakari.studio](https://tsukiakari.studio/)
 
 #### Technologies I'm interested in
 ![Typescript](https://img.shields.io/badge/Typescript-%23282C34.svg?&style=flat-square&logo=typescript&logoColor=3178C6)
