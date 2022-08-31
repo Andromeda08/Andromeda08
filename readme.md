@@ -1,9 +1,8 @@
 ### 🐈 Hello, I'm Balázs Kovács 🐈
 #### About me
-- 📚 I'm a university student, studying Computer Engineering.
-- 🖥️ In my free time I like exploring front-end web development with tools such as `Next.js` and `Typescript`.
+- 📚 I'm a university student at the Budapest University of Technology, studying Computer Engineering.
+- 🖥️ In my free time I like exploring web development, but more recently computer graphics.
 - 💬 Discord: `Andromeda#9731`
-- 🔗 My website: [tsukiakari.studio](https://tsukiakari.studio/)
 
 #### Technologies I'm interested in
 ![Typescript](https://img.shields.io/badge/Typescript-%23282C34.svg?&style=flat-square&logo=typescript&logoColor=3178C6)
@@ -11,6 +10,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=Next.js&logoColor=#000000)
 ![Sass](https://img.shields.io/badge/-Sass-%23282C34?style=flat-square&logo=Sass&logoColor=#CC6699)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-%23282C34?style=flat-square&logo=OpenGL&logoColor=#5586A4)
+![Vulkan](https://img.shields.io/badge/-Vulkan-%23282C34?style=flat-square&logo=Vulkan&logoColor=#AC162C)
 ![Cpp](https://img.shields.io/badge/-C++-%23282C34?style=flat-square&logo=C%2B%2B&logoColor=#00599C)
 
 <details>
