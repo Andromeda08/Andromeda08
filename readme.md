@@ -2,7 +2,6 @@
 #### About me
 - 📚 I'm a university student at the Budapest University of Technology, studying Computer Engineering.
 - 🖥️ In my free time I like exploring web development, but more recently computer graphics.
-- 💬 Discord: `Andromeda#9731`
 
 #### Technologies I'm interested in
 ![Typescript](https://img.shields.io/badge/Typescript-%23282C34.svg?&style=flat-square&logo=typescript&logoColor=3178C6)
