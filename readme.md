@@ -14,7 +14,7 @@
 ![Cpp](https://img.shields.io/badge/-C++-%23282C34?style=flat-square&logo=C%2B%2B&logoColor=#00599C)
 
 <details>
-  <summary>🧮 Stats</summary>
+  <summary>🧮 Language Stats</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andromeda's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andromeda08&layout=compact&theme=graywhite&hide=css" /></a>
 </details
