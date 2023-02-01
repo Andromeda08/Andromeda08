@@ -1,11 +1,11 @@
 ### 🐈 Hello, I'm Balázs Kovács 🐈
 #### About me
 - 📚 I'm a university student at the Budapest University of Technology, studying Computer Engineering.
-- 🖥️ In my free time I like exploring web development, but more recently computer graphics.
+- 🖥️ In my free time I like [exploring computer graphics](https://github.com/Andromeda08/Stardust) and [web development](https://tsukiakari.hu).
 
 #### Technologies I'm interested in
-![Vulkan](https://img.shields.io/badge/-Vulkan-%23282C34?style=flat-square&logo=Vulkan&logoColor=#AC162C)
-![Cpp](https://img.shields.io/badge/-C++-%23282C34?style=flat-square&logo=C%2B%2B&logoColor=#00599C)
+![Vulkan](https://img.shields.io/badge/-Vulkan-%23282C34?style=flat-square&logo=Vulkan&logoColor=#ac162c)
+![Cpp](https://img.shields.io/badge/-C++-%23282C34?style=flat-square&logo=C%2B%2B&logoColor=#00599c)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-%23282C34?style=flat-square&logo=OpenGL&logoColor=#5586A4)
 
 ![Typescript](https://img.shields.io/badge/Typescript-%23282C34.svg?&style=flat-square&logo=typescript&logoColor=3178C6)
