@@ -7,7 +7,6 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C?logo=vulkan)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B)
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-%230E1128?logo=unrealengine)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=opengl&logoColor=%235586A4)
 
 ##### and for Web Development
 ![Typescript](https://img.shields.io/badge/Typescript-%23282C34.svg?&style=flat-square&logo=typescript&logoColor=3178C6)
