@@ -1,7 +1,8 @@
 ### 🐈 Hello, I'm Balázs Kovács 🐈
 #### About me
 - 📚 I'm a university student at the Budapest University of Technology, studying Computer Engineering.
-- 🖥️ My main interest lies in visual computing, especially rendering engine development using modern techniques and APIs such as Vulkan.
+- 💼 I'm currently working as a full-stack web developer.
+- 🖥️ However, my main interest lies in visual computing, especially rendering engine development using modern techniques and APIs such as Vulkan.
 
 #### Tools and technologies I work with
 ![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C?logo=vulkan)
