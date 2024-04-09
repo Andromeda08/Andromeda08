@@ -1,7 +1,7 @@
 ### 🐈 Hello, I'm Balázs Kovács 🐈
 #### About me
 - 🎓 BSc. in Computer Engineering at the Budapet University of Technology.
-- 📚 Studing Visual Computing (Computational Sciences minor) MSc. at the Budapet University of Technology.
+- 📚 Studying Visual Computing (Computational Sciences minor) at the Budapet University of Technology.
 - 💼 I'm also working part-time as a full-stack web developer.
 - 🖥️ My main interest lies in visual computing, especially rendering engine development using modern techniques and APIs such as Vulkan and DirectX 12.
 
