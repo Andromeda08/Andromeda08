@@ -9,10 +9,9 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C?logo=vulkan&style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B&style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%230E1128?logo=opengl&style=flat-square)
-![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-%230E1128?logo=unrealengine&style=flat-square)
 ![GLSL](https://img.shields.io/badge/GLSL-%235586A4?style=flat-square)
 ![HLSL](https://img.shields.io/badge/HLSL-%2380BA03?style=flat-square)
-![Metal](https://img.shields.io/badge/Metal%203-%23E43E56?style=flat-square)
+![Metal](https://img.shields.io/badge/Metal%204-%23E43E56?style=flat-square)
 ![DirectX 12](https://img.shields.io/badge/DirectX%2012-%2380BA03?style=flat-square)
 
 ##### and for Web Development
