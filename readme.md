@@ -1,9 +1,7 @@
 ### 🐈 Hello, I'm Balázs Kovács 🐈
 #### About me
-- 🎓 BSc. in Computer Engineering at the Budapet University of Technology.
-- 📚 Studying Visual Computing at the Technical University of Vienna.
-- 💼 I also work part-time as a full-stack web developer.
-- 🖥️ Interested in rendering engine development using APIs such as Vulkan and DirectX 12.
+- 📚 MSc. student in Visual Computing at the Technical University of Vienna.
+- 🖥️ Interested particularly in renderer architecture and development using modern APIs.
 
 #### Graphics Tools and technologies I work with
 ![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C?logo=vulkan&style=flat-square)
